@@ -14,5 +14,5 @@ Each directory's contents/files are explained below
 ### root
 
 1. `README.md:`  Markdown containing guide to the repository of the assignment;
-2. `script_adm_hw_2.ipynb:` python notebook which contains the code implemented to accomplish the homework; Each question (Research or Theoretical) is labelled with a heading and can be independently run after library imports (first cell). The files that are used by the script, but not included in this repo are :
+2. `main.ipynb:` python notebook which contains the code implemented to accomplish the homework; Each question (Research or Theoretical) is labelled with a heading and can be independently run after library imports (first cell). The files that are used by the script, but not included in this repo are :
      * "steam_reviews.csv": Downloadable from the link given in the homework description, and a precursor to executing the notebook successfully
